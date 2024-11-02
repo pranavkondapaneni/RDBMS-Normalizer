@@ -1,0 +1,1 @@
+This is my submission for the first project of CS5300. It is a relational database normalizer. It takes .xlsx files as input and normalizes the selected table up to the 5th normal form.
